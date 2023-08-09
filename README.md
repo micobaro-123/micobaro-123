@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @micobaro-123, I am a clinical trials expert
-- 👀 I’m interested in clinical trials and the use of software in enhancing procedurs and processes in clinical trials. I am a clinical pharmacologist at the University College Hospital, Ibadan, Nigeria
+- 👀 I’m interested in clinical trials and the use of software in enhancing procedures and processes in clinical trials. I am a clinical pharmacologist at the University College Hospital, Ibadan, Nigeria
 - 🌱 I’m currently overseeing a team of specialists in different sub-specialties of Medicine
 - 💞️ I’m looking to collaborate with sponsors or CROs in the conduction of clinical trials in any sub-specialty
 - 📫 How to reach me: My email contact is micobaro@gmail.com 
